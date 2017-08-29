@@ -6,16 +6,16 @@ My list of essential office supplies.
 # Table of Contents
 
 * [Pencils](https://github.com/Michaelangel007/pen_and_paper#-pencils-)
-* [Lead](https://github.com/Michaelangel007/pen_and_paper#-lea-)
+* [Lead](https://github.com/Michaelangel007/pen_and_paper#-lead-)
 * [Pens](https://github.com/Michaelangel007/pen_and_paper#-pens-)
 * [Erasers](https://github.com/Michaelangel007/pen_and_paper#-erasers-)
-* Paper
-  * Non-Graph
-  * Graph
-* Ruler
-  * Solid
-  * Transparent
-* Container
+* [Paper](https://github.com/Michaelangel007/pen_and_paper#-paper-)
+  * [Non-Graph Paper](https://github.com/Michaelangel007/pen_and_paper#non-graph-paper)
+  * [Graph Paper](https://github.com/Michaelangel007/pen_and_paper#graph-paper)
+* [Rulers](https://github.com/Michaelangel007/pen_and_paper#-rulers-)
+  * [Solid](https://github.com/Michaelangel007/pen_and_paper#solid)
+  * [Transparent](https://github.com/Michaelangel007/pen_and_paper#transparent)
+* [Containers](https://github.com/Michaelangel007/pen_and_paper#-containers-)
 
 
 # = Pencils =
@@ -93,7 +93,7 @@ Yellow Legal Pad -- You need to determine _which_ yellow is right for you. **90%
 * [TOPS The Legal Pad Legal Pad, 8-1/2 x 11-3/4 Inches, Perforated, Canary, Legal/Wide Rule, 50 Sheets per Pad, 12 Pads per Pack](https://www.amazon.com/Legal-Inches-Perforated-Canary-Sheets/dp/B0006HWRK8/)
 
 
-## = Graph Paper =
+## Graph Paper
 
 * [9.75x7.5" Top Flight Sewn Marble Composition Book, Black/White, Quad Rule](https://www.amazon.com/Top-Flight-Composition-Squares-41320/dp/B003I869B0/)
 
@@ -114,7 +114,7 @@ Yellow Legal Pad -- You need to determine _which_ yellow is right for you. **90%
 
 
 
-# = Ruler =
+# = Rulers =
 
 ## Solid
 
@@ -125,12 +125,12 @@ Yellow Legal Pad -- You need to determine _which_ yellow is right for you. **90%
 ## Transparent
 
 
-I don't have this one ... since I snapped a 12" transparent one in half ... accidently. But it looks good.
+I snapped a 12" transparent one in half, accidently, but have this one on order.
 
 * [Transparent 6" Ruler](https://www.amazon.com/eBoot-Plastic-Straight-Rulers-Transparent/dp/B06XHHHF51/)
 
 
-# = Container =
+# = Containers =
 
 
 I prefer this one because it has a low profile height and can hold 6 pens laying next to each other across.
