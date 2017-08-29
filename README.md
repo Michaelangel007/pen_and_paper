@@ -5,9 +5,10 @@ My list of essential office supplies.
 
 # Table of Contents
 
-* Pencils
-* Lead
-* Pens
+* [Pencils](https://github.com/Michaelangel007/pen_and_paper#-pencils-)
+* [Lead](https://github.com/Michaelangel007/pen_and_paper#-lea-)
+* [Pens](https://github.com/Michaelangel007/pen_and_paper#-pens-)
+* [Erasers](https://github.com/Michaelangel007/pen_and_paper#-erasers-)
 * Paper
   * Non-Graph
   * Graph
@@ -65,12 +66,12 @@ I found `Fine 0.7 mm` is the perfect _balanced_ size. Not too thin, not too thic
 
 
 
-# = Eraser =
+# = Erasers =
 
 * [Prismacolor Magic Rub Vinyl Drafting Erasers, 12-Count](https://www.amazon.com/Prismacolor-Magic-Drafting-Erasers-12-Count/dp/B00006IFAY/)
 
 
-White erase quality is all over the map.
+White eraser quality is all over the map. Staedtler Mars is great.
 
 
 * [Staedtler Mars Plastic Erasers,Pack of 4](https://www.amazon.com/gp/product/B00NC5MW7O/)
@@ -107,9 +108,9 @@ Yellow Legal Pad -- You need to determine _which_ yellow is right for you. **90%
  * 50 sheets
 
 
-** [8.5 x 11](https://www.amazon.com/Section-Squares-Quadrille-Letter-35041/dp/B00094AMAU/)
+   * [8.5 x 11](https://www.amazon.com/Section-Squares-Quadrille-Letter-35041/dp/B00094AMAU/)
 
-** [11 x 17](https://www.amazon.com/Ampad-Quadrille-Double-Sheets-22-037/dp/B00275QXLG/)
+   * [11 x 17](https://www.amazon.com/Ampad-Quadrille-Double-Sheets-22-037/dp/B00275QXLG/)
 
 
 
