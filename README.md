@@ -153,3 +153,17 @@ I do NOT recommend the ...
 * [Sterilite Pencil Box with Splash Tint Lid](https://www.amazon.com/Sterilite-Pencil-Splash-Tint-17224812/dp/B00453MS12/)
 
 ... as the latch has a tendancy to unlock.
+
+
+# = Shelves =
+
+Magic search words are: `Steel Wire Metal Shelving Rack`
+
+|Dimension|Inches|Feet |
+|:--------|:---:|:-----|
+|Length   | 48" | 4'   |
+|Width    | 18" | 1'6" |
+|Height   | 72" | 5'   |
+
+* [Seville Classics 5-Tier UltraZinc NSF Steel Wire Shelving /w Wheels, 18" D x 48" W x 72" H](https://www.amazon.com/Seville-Classics-5-Tier-UltraZinc-Shelving/dp/B00B7E8YA6/)
+* [Seville Classics 6-Tier UltraZinc NSF Steel Wire Shelving /w Wheels, 18" D x 48" W x 72" H](https://www.amazon.com/Seville-Classics-6-Tier-UltraZinc-Shelving/dp/B00FIYDG0Y/)
