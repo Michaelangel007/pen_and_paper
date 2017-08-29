@@ -147,4 +147,8 @@ I bought mine at Fred Meyer because I could _see_ and _pick_ which color I wante
   * Purple
   * Clear
 
+I do NOT recommend the ...
 
+* [Sterilite Pencil Box with Splash Tint Lid](https://www.amazon.com/Sterilite-Pencil-Splash-Tint-17224812/dp/B00453MS12/)
+
+... as the latch has a tendancy to unlock.
