@@ -57,11 +57,11 @@ I found `Fine 0.7 mm` is the perfect _balanced_ size. Not too thin, not too thic
 
 * [Pilog G2 Black 5 pack](https://www.amazon.com/Pilot-Retractable-Premium-Roller-31299/dp/B0058NN4C0/)
 
-* [Pilot Red 2 pack](https://www.amazon.com/dp/B00WMDLO5S/)
+* [Pilot G2 Red 2 pack](https://www.amazon.com/dp/B00WMDLO5S/)
 
-* [Blue 5 pack](https://www.amazon.com/Pilot-Retractable-Premium-Roller-31299/dp/B0058NNAM4/)
+* [Pilot G2 Blue 5 pack](https://www.amazon.com/Pilot-Retractable-Premium-Roller-31299/dp/B0058NNAM4/)
 
-* [Green 2 pack](https://www.amazon.com/dp/B00WMDLO5S/)
+* [Pilot G2 Green 2 pack](https://www.amazon.com/dp/B00WMDLO5S/)
 
 
 
@@ -140,4 +140,11 @@ I prefer this one because it has a low profile height and can hold 6 pens laying
 **NOTE:** Above is a _random_ color -- freaking STUPID customer service!!!
 
 I bought mine at Fred Meyer because I could _see_ and _pick_ which color I wanted.
+
+  * Red
+  * Green
+  * Blue
+  * Purple
+  * Clear
+
 
